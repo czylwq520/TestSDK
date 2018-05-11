@@ -1,0 +1,22 @@
+{
+  "name": "TestSDK",
+  "version": "0.1.0",
+  "summary": "A short description of TestSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wq1028/TestSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wq1028": "1224246206@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wq1028/TestSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestSDK/Classes/**/*"
+}
